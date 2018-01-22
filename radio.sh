@@ -4,8 +4,8 @@
 #Radio 
 #A base de podcast | replique | musique
 #dependances 
-#$mplayer | $toilet | $finglet | $fortune | base de donee pub/zik
-#
+#$mplayer | $toilet | $finglet | $fortune | base de pub/zik
+#$pico2wave
 
 
 clear
